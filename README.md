@@ -19,8 +19,8 @@ This portfolio shows the projects I worked on during the study and also a couple
 Interested in mechanical/mechatronic engineering.
 
 ## Project links
-Links to projects:
-###Codam
+Codam
+
 [shell](https://github.com/Rikkopanda/minishell)
 
 [MiniRT](https://github.com/Rikkopanda/Mini_RT)
@@ -29,7 +29,7 @@ Links to projects:
 
 [Wireframe](https://github.com/Rikkopanda/FDF)
 
-###DIY (hobby) projects
+DIY (hobby) projects
 
 cnc mill self made
 
