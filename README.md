@@ -31,7 +31,7 @@ Codam
 
 DIY (hobby) projects
 
-cnc mill self made
+[cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
 
 robot arm
 
