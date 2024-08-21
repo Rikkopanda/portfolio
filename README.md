@@ -1,6 +1,6 @@
 # portfolio Rik Verhoeven
 
-## What I've done
+# What I've done
 
 Hello my name is Rik Verhoeven,
 currently I am studying software engineering at Codam(started in July 2023).
@@ -18,16 +18,21 @@ This portfolio shows the projects I worked on during the study and also a couple
 🔍 I am looking for work!
 Interested in mechanical/mechatronic engineering.
 
-
+# Project links
 Links to projects:
 Codam
 [shell](https://github.com/Rikkopanda/minishell)
+
 [MiniRT](https://github.com/Rikkopanda/Mini_RT)
+
 [Number sorting](https://github.com/Rikkopanda/pushswap)
+
 [Wireframe](https://github.com/Rikkopanda/FDF)
 
 DIY (hobby) projects
+
 cnc mill self made
+
 robot arm
 
 
