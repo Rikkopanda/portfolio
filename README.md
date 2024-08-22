@@ -23,7 +23,7 @@ Codam
 
 [shell](https://github.com/Rikkopanda/minishell)
 
-[MiniRT](https://github.com/Rikkopanda/Mini_RT)
+[MiniRT(raytracer)](https://github.com/Rikkopanda/Mini_RT)
 
 [Number sorting](https://github.com/Rikkopanda/pushswap)
 
