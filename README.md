@@ -33,8 +33,7 @@ DIY (hobby) projects
 
 [cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
 
-robot arm
-
+[mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md)
 
 
 
