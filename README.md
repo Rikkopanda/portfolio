@@ -8,15 +8,15 @@ Also I am enrolled into part-time mechanical engineering study at Avans hogescho
 During this time I also worked as a allround welder for 4 months and 1 month as a mechanic.
 Before these studies I went to civil construction college(Bouwkunde MBO BOL4).
 
-At Codam/42 curriculum we mainly learn by doing practical coding projects, I got to code a Shell in C based on bash, a mini Raytracer and more.
-Next to my study I like to tinker on hobby projects, I made a diy cnc originally intended for engraving furniture and a small robot arm made out of mdf(wood).
+At Codam/42 curriculum we mainly learn by doing practical coding projects, I got to code a [shell](https://github.com/Rikkopanda/minishell) in C based on bash, a mini [MiniRT](https://github.com/Rikkopanda/Mini_RT) written from scatch, a [Wireframe](https://github.com/Rikkopanda/FDF) builer and more.
+Next to my study I like to tinker on hobby projects, I made a diy [cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md) originally intended for engraving furniture and a small robot arm made out of mdf(wood).
 Also I like practice with electronics.
 
 This portfolio shows the projects I worked on during the study and also a couple hobby projects.
 
 ## What I'm up to
+Interested in developing and learning mechanical/mechatronic engineering && software related to automation/machinery.
 🔍 I am looking for work!
-Interested in mechanical/mechatronic engineering || software related to automation/machinery.
 
 ## Project links
 Codam
