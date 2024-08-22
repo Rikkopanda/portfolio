@@ -16,6 +16,7 @@ This portfolio shows the projects I worked on during the study and also a couple
 
 ## What I'm up to
 Interested in developing and learning mechanical/mechatronic engineering && software related to automation/machinery.
+
 🔍 I am looking for work!
 
 ## Project links
