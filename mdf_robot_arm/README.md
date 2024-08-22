@@ -11,5 +11,7 @@ One in the base which rotates the whole robot and two driving the 4 bar linkage.
 On the software side is a small .net windows app, which sends commands via serial COM to the Arduino.
 
 
-https://github.com/user-attachments/assets/8af0bb69-c0d7-4645-a330-0fbd0178d991
+https://github.com/user-attachments/assets/50784c7e-84e4-4541-9d3b-26f357edafdb
+
+
 
