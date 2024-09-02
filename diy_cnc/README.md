@@ -5,6 +5,8 @@ This project I started in 2022 and was originally intended for milling and engra
 
 After collecting dust for a year it is now being repurposed for grinding glass plates, my father made some additional adjustments to facilitate this.
 
+**the making of, video** https://www.youtube.com/watch?v=IzANyjcakW0&t=159s
+
 **Software used:** UCCNC
 
 **Hardware:**
