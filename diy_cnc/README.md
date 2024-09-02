@@ -19,8 +19,11 @@ UC300ETH-5LPT controller + UCBB breakout board
 
 
 
-https://github.com/user-attachments/assets/0f5a5497-1b67-46e5-9233-b5770e7e1f63
+https://github.com/user-attachments/assets/9eb1d8ea-db78-49ae-bea2-5bd23623d900
 
 
+https://github.com/user-attachments/assets/3a02cb09-01da-4d3f-b5e9-f00a30108959
 
+
+https://github.com/user-attachments/assets/d5d2249f-9022-4004-b05e-8b60fed4390d
 
