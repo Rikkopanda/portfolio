@@ -28,15 +28,21 @@ Codam
 
 [Number sorting](https://github.com/Rikkopanda/pushswap)
 
-[Wireframe](https://github.com/Rikkopanda/FDF)
+[Multithreading problem]()
 
-DIY (hobby) projects
+[Wireframe generator](https://github.com/Rikkopanda/FDF)
+
+Mechatronics projects:
 
 [cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
 
+[Oyster growing automation project]()
+
 [mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md)
 
+[basic electronic synthesiser]()
 
+[rc car rf controlled]()
 
 
 
