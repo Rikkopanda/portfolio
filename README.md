@@ -20,8 +20,17 @@ Interested in developing and learning mechanical/mechatronic engineering && soft
 🔍 I am looking for work!
 
 ## Project links
-Codam
+Mechatronics projects:
+[cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
+- Diy cnc mill build
 
+[Oyster growing automation project](https://github.com/Rikkopanda/Oester_zwammen_meet_en_regel)
+- measuring and controlling environment for growing oyster mushrooms
+
+[mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md)
+- robot arm 4-bar mechanism controlled by C# .net ui application
+
+Codam
 [shell](https://github.com/Rikkopanda/minishell)
 
 [MiniRT(raytracer)](https://github.com/Rikkopanda/Mini_RT)
@@ -32,17 +41,6 @@ Codam
 
 [Wireframe generator](https://github.com/Rikkopanda/FDF)
 
-Mechatronics projects:
-
-[cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
-
-[Oyster growing automation project]()
-
-[mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md)
-
-[basic electronic synthesiser]()
-
-[rc car rf controlled]()
 
 
 
