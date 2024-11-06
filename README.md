@@ -1,6 +1,6 @@
 # portfolio Rik Verhoeven
 
-## Introduction & what I've done
+## Introduction
 
 Hello my name is Rik Verhoeven,
 currently I am studying software engineering at Codam(started in July 2023).
