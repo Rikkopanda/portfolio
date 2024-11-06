@@ -15,7 +15,7 @@ Also I like to practice with electronics.
 This portfolio shows the projects I worked on during the study and also a couple hobby projects.
 
 ## Project links
-Mechatronics projects:
+**Mechatronics projects:**
 
 [cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
 - Diy cnc mill build
@@ -26,7 +26,7 @@ Mechatronics projects:
 [mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md)
 - robot arm 4-bar mechanism controlled by C# .net ui application
 
-Codam
+**Codam**
 
 [shell](https://github.com/Rikkopanda/minishell/blob/main/README.md)
 
