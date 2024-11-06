@@ -14,11 +14,6 @@ Also I like practice with electronics.
 
 This portfolio shows the projects I worked on during the study and also a couple hobby projects.
 
-## What I'm up to
-Interested in developing and learning mechanical/mechatronic engineering && software related to automation/machinery.
-
-🔍 I am looking for work!
-
 ## Project links
 Mechatronics projects:
 [cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
