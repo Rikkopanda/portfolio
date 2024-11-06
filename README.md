@@ -26,7 +26,7 @@ This portfolio shows the projects I worked on during the study and also a couple
 [mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md)
 - robot arm 4-bar mechanism controlled by C# .net ui application
 
-**Codam**
+**Codam:**
 
 [shell](https://github.com/Rikkopanda/minishell/blob/main/README.md)
 
