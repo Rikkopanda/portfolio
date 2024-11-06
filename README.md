@@ -16,6 +16,7 @@ This portfolio shows the projects I worked on during the study and also a couple
 
 ## Project links
 Mechatronics projects:
+
 [cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
 - Diy cnc mill build
 
@@ -26,6 +27,7 @@ Mechatronics projects:
 - robot arm 4-bar mechanism controlled by C# .net ui application
 
 Codam
+
 [shell](https://github.com/Rikkopanda/minishell)
 
 [MiniRT(raytracer)](https://github.com/Rikkopanda/Mini_RT)
