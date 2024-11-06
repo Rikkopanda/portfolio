@@ -20,7 +20,7 @@ Mechatronics projects:
 [cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
 - Diy cnc mill build
 
-[Oyster growing automation project](https://github.com/Rikkopanda/Oester_zwammen_meet_en_regel)
+[Oyster growing automation project](https://github.com/Rikkopanda/Oester_zwammen_meet_en_regel/README.md)
 - measuring and controlling environment for growing oyster mushrooms
 
 [mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md)
@@ -28,15 +28,15 @@ Mechatronics projects:
 
 Codam
 
-[shell](https://github.com/Rikkopanda/minishell)
+[shell](https://github.com/Rikkopanda/minishell/README.md)
 
 [MiniRT(raytracer)](https://github.com/Rikkopanda/Mini_RT)
 
-[Number sorting](https://github.com/Rikkopanda/pushswap)
+[Number sorting](https://github.com/Rikkopanda/pushswap/README.md)
 
-[Multithreading problem](https://github.com/Rikkopanda/philoshophers)
+[Multithreading problem](https://github.com/Rikkopanda/philoshophers/README.md)
 
-[Wireframe generator](https://github.com/Rikkopanda/FDF)
+[Wireframe generator](https://github.com/Rikkopanda/FDF/README.md)
 
 
 
