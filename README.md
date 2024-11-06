@@ -30,7 +30,7 @@ Codam
 
 [shell](https://github.com/Rikkopanda/minishell/blob/main/README.md)
 
-[MiniRT(raytracer)](https://github.com/Rikkopanda/Mini_RT/blob/main/README.md)
+[MiniRT(raytracer)](https://github.com/Rikkopanda/Mini_RT/blob/main/Readme.md)
 
 [Number sorting](https://github.com/Rikkopanda/pushswap/blob/main/README.md)
 
