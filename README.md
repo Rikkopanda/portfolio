@@ -34,7 +34,7 @@ Codam
 
 [Number sorting](https://github.com/Rikkopanda/pushswap)
 
-[Multithreading problem]()
+[Multithreading problem](https://github.com/Rikkopanda/philoshophers)
 
 [Wireframe generator](https://github.com/Rikkopanda/FDF)
 
