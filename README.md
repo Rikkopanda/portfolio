@@ -9,7 +9,7 @@ During this time I also worked as a allround welder for 4 months and 1 month as 
 Before these studies I went to civil construction college(Bouwkunde MBO BOL4).
 
 The Codam curriculum contains practical coding projects; such as a [shell](https://github.com/Rikkopanda/minishell) in C based on bash, a mini [raytracer](https://github.com/Rikkopanda/Mini_RT) written from scatch, a [wireframe](https://github.com/Rikkopanda/FDF) builer and more.
-Next to my study I like to work on projects, for instance I made a diy [cnc](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md) originally intended for engraving furniture and a small robot arm made out of mdf(wood).
+Next to my study I like to work on projects, for instance I made a diy [cnc](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md) and a small robot arm made out of mdf(wood).
 Also I like to practice with electronics.
 
 This portfolio shows the projects I worked on during the study and also a couple hobby projects.
