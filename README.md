@@ -26,12 +26,10 @@ This portfolio shows the projects I worked on during the study and also a couple
 [mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md)
 - robot arm 4-bar mechanism controlled by C# .net ui application
 
-Marble racing python code
+[esp32 radio controlled rc car](https://github.com/Rikkopanda/portfolio/blob/main)
 
-rc car esp32 control
-
-kuka robot refurbished
-
+[oven drawer for automation project](https://a360.co/3YTdwu1)
+- fusion 360 drawing
 
 
 **Codam:**
