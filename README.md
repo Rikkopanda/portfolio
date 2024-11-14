@@ -35,7 +35,7 @@ electronic basic synthesiser
 - coupled to esp32 which chooses channel in multiplexer, which determines restistance value connected to oscillating circuit, which determines frequency.
 - project was a workshop at Codam, following a guide
 ![20240615_101839](https://github.com/user-attachments/assets/0882f1e9-3349-4cd2-a649-0c80ce32fecc)
-
+<img src="https://github.com/user-attachments/assets/0882f1e9-3349-4cd2-a649-0c80ce32fecc" align="left" width="300"/>
 
 
 **Codam:**
