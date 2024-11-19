@@ -43,7 +43,7 @@ This portfolio shows the projects I worked on during the study and also a couple
 - raspberrypi (SBC) as master with ROS nodes, connected to esp32, which controls the motor drivers for wheels.
 - steerable through wifi connection on remote computer (just manually with control on node-red local server)
   
-![](https://github.com/user-attachments/assets/e7dd47c5-0bc6-47c3-a394-2a5b5caa0e63)
+![.](https://github.com/user-attachments/assets/e7dd47c5-0bc6-47c3-a394-2a5b5caa0e63)
 
 - **prototype 2**
 - A repurpused typical RC RF car, replacing the well kwon original handremote rf control with costum made control
@@ -53,7 +53,7 @@ This portfolio shows the projects I worked on during the study and also a couple
 - original ESC controller was reusable but the pwm is now coming from esp32.
 - ultrasonic sensors on the front of the car.
 
-![](https://github.com/user-attachments/assets/a0f17210-ab1c-43e5-903a-38456b7915be)
+![.](https://github.com/user-attachments/assets/a0f17210-ab1c-43e5-903a-38456b7915be)
 
 
 
