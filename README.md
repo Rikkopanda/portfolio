@@ -17,21 +17,21 @@ This portfolio shows the projects I worked on during the study and also a couple
 ## Project links
 **Mechatronics projects:**
 
-[cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md)
+[cnc mill](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md):
 - Diy cnc mill build
 
-[Oyster growing automation project](https://github.com/Rikkopanda/Oester_zwammen_meet_en_regel/blob/main/README.md)
+[Oyster growing automation project](https://github.com/Rikkopanda/Oester_zwammen_meet_en_regel/blob/main/README.md):
 - measuring and controlling environment for growing oyster mushrooms
 
-[mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md)
+[mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md):
 - robot arm 4-bar mechanism controlled by C# .net ui application
 
-[oven drawer (for ongoing automation project)](https://a360.co/3YTdwu1)
+[oven drawer (for ongoing automation project)](https://a360.co/3YTdwu1):
 - fusion 360 drawing
 
-[kuka robot small repair(for ongoing automation project)](https://github.com/Rikkopanda/KUKA)
+[kuka robot small repair(for ongoing automation project)](https://github.com/Rikkopanda/KUKA):
 
-**electronic basic synthesiser**
+**electronic basic synthesiser:**
 
 - coupled to esp32 which chooses channel in multiplexer, which determines restistance value connected to oscillating circuit, which determines frequency. Turning potentiometer also affects frequency or db
 - project was done in a workshop at Codam, following a guide
@@ -39,7 +39,7 @@ This portfolio shows the projects I worked on during the study and also a couple
 
 
 
-**ros mobile robot (ongoing for learning ROS framework]**
+**ros mobile robot (ongoing for learning ROS framework):**
 
 - **prototype 1**
 - raspberrypi (SBC) as master with ROS nodes, connected to esp32, which controls the motor drivers for wheels.
