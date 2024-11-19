@@ -31,12 +31,14 @@ This portfolio shows the projects I worked on during the study and also a couple
 
 [kuka robot small repair(for ongoing automation project)](https://github.com/Rikkopanda/KUKA)
 
-electronic basic synthesiser
+**electronic basic synthesiser
+**
 - coupled to esp32 which chooses channel in multiplexer, which determines restistance value connected to oscillating circuit, which determines frequency. Turning potentiometer also affects frequency or db
 - project was done in a workshop at Codam, following a guide
 <img src="https://github.com/user-attachments/assets/0882f1e9-3349-4cd2-a649-0c80ce32fecc" width="300"/>
 
-[ros mobile robot(ongoing for learning ROS framework]
+**[ros mobile robot(ongoing for learning ROS framework]
+**
 - **prototype 1**
 - raspberrypi (SBC) as master with ROS nodes, connected to esp32, which controls the motor drivers for wheels.
 - steerable through wifi connection on remote computer (just manually with control on node-red local server)
