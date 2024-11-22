@@ -12,7 +12,7 @@ The Codam curriculum contains practical coding projects; such as a [shell](https
 Next to my study I like to work on projects, for instance I made a diy [cnc](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md) and a small robot arm made out of mdf(wood).
 Also I like to practice with electronics.
 
-This portfolio shows the projects I worked on during Codam(programming) and also a couple hobby projects.
+This portfolio shows the projects I worked on during Codam(programming) and also a couple diy projects.
 
 ## Project links
 **Mechatronics projects:**
