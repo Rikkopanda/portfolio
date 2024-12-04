@@ -48,7 +48,7 @@ This portfolio shows the projects I worked on during Codam(programming) and also
 ![video link](https://github.com/user-attachments/assets/e7dd47c5-0bc6-47c3-a394-2a5b5caa0e63)
 
 **prototype 2**
-- A repurpused typical RC RF car, replacing the well kwon original handremote rf control with costum made control
+- A repurpused typical RC RF car, replacing the well known original handremote rf control with costum made control
 - This is still an ongoing hobby/learning project.
   
 - 1 esp32 on the robot, 1 esp32 remote control trough RF transievers
