@@ -38,9 +38,11 @@ This portfolio shows the projects I worked on during Codam(programming) and also
 <img src="https://github.com/user-attachments/assets/0882f1e9-3349-4cd2-a649-0c80ce32fecc" width="300"/>
 
 **Avans:**
+
 [ball balancing arm](https://github.com/Rikkopanda/Avans_KnikkerBaan/blob/minimal/README.md)
 
 **Codam:**
+
 [shell](https://github.com/Rikkopanda/minishell/blob/main/README.md)
 
 [MiniRT(raytracer)](https://github.com/Rikkopanda/Mini_RT/blob/master/Readme.md)
@@ -52,6 +54,7 @@ This portfolio shows the projects I worked on during Codam(programming) and also
 [Wireframe generator](https://github.com/Rikkopanda/FDF/blob/main/README.md)
 
 **Other:**
+
 **ros mobile robot (ongoing for learning ROS framework):**
 **prototype 1**
 - raspberrypi (SBC) as master with ROS nodes, connected to esp32, which controls the motor drivers for wheels.
