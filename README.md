@@ -56,13 +56,14 @@ This portfolio shows the projects I worked on during Codam(programming) and also
 **Other:**
 
 **ros mobile robot (ongoing for learning ROS framework):**
+
 **prototype 1**
 - raspberrypi (SBC) as master with ROS nodes, connected to esp32, which controls the motor drivers for wheels.
 - steerable through wifi connection on remote computer (just manually with control on node-red local server)
 ![video link](https://github.com/user-attachments/assets/e7dd47c5-0bc6-47c3-a394-2a5b5caa0e63)
 
 **prototype 2**
-- A repurpused typical RC RF car, replacing original handremote rf control with costum made control by
+- A repurpused typical RC RF car, replacing original handremote rf control with costum made control
 - original ESC controller was reusable but the pwm is now coming from esp32 trough RF transievers
 
 ![video link](https://github.com/user-attachments/assets/a0f17210-ab1c-43e5-903a-38456b7915be)
