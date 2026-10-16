@@ -26,8 +26,8 @@ This portfolio shows the projects I worked on during Codam(programming) and also
 [mdf robot arm](https://github.com/Rikkopanda/portfolio/blob/main/mdf_robot_arm/README.md):
 - robot arm 4-bar mechanism controlled by C# .net ui application
 
-[oven drawer (for ongoing automation project)](https://a360.co/3YuNBc0):
-- fusion 360 drawing
+[oven drawer (for ongoing automation project)](https://github.com/Rikkopanda/AutomatiseringGlasGit/blob/main/Lade/README.md):
+- [fusion 360 drawing](https://a360.co/3YuNBc0):
 
 [kuka robot small repair(for ongoing automation project)](https://github.com/Rikkopanda/KUKA):
 
