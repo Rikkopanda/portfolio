@@ -37,30 +37,10 @@ This portfolio shows the projects I worked on during Codam(programming) and also
 - project was done in a workshop at Codam, following a guide
 <img src="https://github.com/user-attachments/assets/0882f1e9-3349-4cd2-a649-0c80ce32fecc" width="300"/>
 
-
-
-**ros mobile robot (ongoing for learning ROS framework):**
-
-**prototype 1**
-- raspberrypi (SBC) as master with ROS nodes, connected to esp32, which controls the motor drivers for wheels.
-- steerable through wifi connection on remote computer (just manually with control on node-red local server)
-  
-![video link](https://github.com/user-attachments/assets/e7dd47c5-0bc6-47c3-a394-2a5b5caa0e63)
-
-**prototype 2**
-- A repurpused typical RC RF car, replacing the well known original handremote rf control with costum made control
-- This is still an ongoing hobby/learning project.
-  
-- 1 esp32 on the robot, 1 esp32 remote control trough RF transievers
-- original ESC controller was reusable but the pwm is now coming from esp32.
-- ultrasonic sensors on the front of the car.
-
-![video link](https://github.com/user-attachments/assets/a0f17210-ab1c-43e5-903a-38456b7915be)
-
-
+**Avans:**
+[ball balancing arm](https://github.com/Rikkopanda/Avans_KnikkerBaan/blob/minimal/README.md)
 
 **Codam:**
-
 [shell](https://github.com/Rikkopanda/minishell/blob/main/README.md)
 
 [MiniRT(raytracer)](https://github.com/Rikkopanda/Mini_RT/blob/master/Readme.md)
@@ -71,7 +51,17 @@ This portfolio shows the projects I worked on during Codam(programming) and also
 
 [Wireframe generator](https://github.com/Rikkopanda/FDF/blob/main/README.md)
 
+**Other:**
+**ros mobile robot (ongoing for learning ROS framework):**
+**prototype 1**
+- raspberrypi (SBC) as master with ROS nodes, connected to esp32, which controls the motor drivers for wheels.
+- steerable through wifi connection on remote computer (just manually with control on node-red local server)
+![video link](https://github.com/user-attachments/assets/e7dd47c5-0bc6-47c3-a394-2a5b5caa0e63)
 
+**prototype 2**
+- A repurpused typical RC RF car, replacing original handremote rf control with costum made control by
+- original ESC controller was reusable but the pwm is now coming from esp32 trough RF transievers
 
+![video link](https://github.com/user-attachments/assets/a0f17210-ab1c-43e5-903a-38456b7915be)
 
 
