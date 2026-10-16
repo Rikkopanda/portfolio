@@ -3,16 +3,12 @@
 ## Introduction
 
 Hello my name is Rik Verhoeven,
-currently I am studying software engineering at Codam(started in July 2023).
-Also I am enrolled into part-time mechanical engineering study at Avans hogeschool, this I started in July 2022.
-During this time I also worked as a allround welder for 4 months and 1 month as a mechanic.
-Before these studies I went to civil construction college(Bouwkunde MBO BOL4).
+
+This portfolio shows the projects I worked on during Codam, Avans and my own projects.
 
 The Codam curriculum contains practical coding projects; such as a [shell](https://github.com/Rikkopanda/minishell) in C based on bash, a mini [raytracer](https://github.com/Rikkopanda/Mini_RT) written from scatch, a [wireframe](https://github.com/Rikkopanda/FDF) builer and more.
 Next to my study I like to work on projects, for instance I made a diy [cnc](https://github.com/Rikkopanda/portfolio/blob/main/diy_cnc/README.md) and a small robot arm made out of mdf(wood).
-Also I like to practice with electronics.
-
-This portfolio shows the projects I worked on during Codam, Avans and my own projects.
+Also I like to work with electronics.
 
 ## Project links
 **Mechatronics projects:**
